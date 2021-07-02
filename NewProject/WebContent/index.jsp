@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>인덱스</h1>
+	<p>p1</p>
 </body>
 </html>
